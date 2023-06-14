@@ -1,5 +1,9 @@
 # Apple Revenue Analysis
 This project focuses on the analysis of Apple's revenue using Microsoft Excel and a dashboard. The purpose is to gain insights into Apple's financial performance and identify trends and patterns in its revenue data.
+<img width="1280" alt="Screenshot 2023-06-13 at 9 51 56 PM" src="https://github.com/Aduracodez/Apple-Revenue-Analysis/assets/61586386/1f19a832-45f5-4e3b-af51-a0215dec6c2d">
+
+
+
 
 # Table of Contents
 Introduction
